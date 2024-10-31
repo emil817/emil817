@@ -1,7 +1,10 @@
 ## Hi there 👋
 I'm AI developer and microcontroller programmer.
 
-![Emil817's GitHub stats](https://github-readme-stats.vercel.app/api?username=emil817&show_icons=true&theme=dark)
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emil817&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+</p>
 
 <!--
 **emil817/emil817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
