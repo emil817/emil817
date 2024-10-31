@@ -3,7 +3,6 @@ I'm AI developer and microcontroller programmer.
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emil817&show_icons=true&theme=dark&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil817&layout=compact&theme=dark" />
 </p>
 
 <!--
